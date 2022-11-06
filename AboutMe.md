@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zev2222
+- 👀 I’m currently a lua developer
+- 🌱 I’m currently working on a project called Stud Studios
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me Zev#2222
